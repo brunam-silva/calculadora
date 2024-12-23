@@ -13,7 +13,7 @@ Este repositório contém:
    ```bash
    chmod +x calculadora.sh
 3. Execute o script no terminal.
-   ./calculadora.sh### calculadora.sh
+   ./calculadora.sh
 
 ### calculadora.sh
 - Este script solicita dois números do usuário.
